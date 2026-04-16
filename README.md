@@ -3665,13 +3665,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst)
 - [Thanos](https://thanos.io/tip/contributing/coding-style-guide.md/)
 - [Trybe](https://github.com/betrybe/playbook-go/blob/main/README_EN.md)
-- [Uber](https://github.com/uber-go/guide/blob/master/style.md)
-
-**[⬆ back to top](#contents)**
-
-## Social Media
-
-### Twitter
+- [Uber](https://github.com/uber-go/guide/blob/master/style.md
 
 - [@GoDiscussions](https://twitter.com/GoDiscussions)
 - [@golang](https://twitter.com/golang)
@@ -3681,13 +3675,11 @@ _Add the group of your city/country here (send **PR**)_
 
 **[⬆ back to top](#contents)**
 
-### Reddit
+### 
 
 - [r/golang](https://www.reddit.com/r/golang/)
 
-**[⬆ back to top](#contents)**
-
-## Websites
+**[⬆ nts)*
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
@@ -3778,7 +3770,7 @@ _Add the group of your city/country here (send **PR**)_
 
 **[⬆ back to top](#contents)**
 
-### Guided Learning
+###  Learning
 
 - [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
 - [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) - A GitHub repository offering coding challenges for Go technical interview preparation.
@@ -3787,11 +3779,9 @@ _Add the group of your city/country here (send **PR**)_
 
 **[⬆ back to top](#contents)**
 
-## Contribution
+m Contribution
 
 We welcome contributions! Please refer to our [CONTRIBUTING.md](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) for guidelines.
-
-## License
 
 This project is licensed under the [MIT License](https://github.com/avelino/awesome-go/blob/main/LICENSE) - see the LICENSE file for details.
 ## Reset
